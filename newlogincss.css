@@ -12,10 +12,9 @@
   display: flex;
   flex-direction: column;
   width:100%;
-  min-width:1000px;
   height:auto;                                                                                                                   ;
   justify-content: flex-start;
-  padding: 0;
+  padding: 100px 0;
   width: 100%;
 }
 .login .enter- {
