@@ -13,10 +13,10 @@
   background-color: teal;
   display: flex;
   flex-direction: column;
-  height: auto;
+  height: 100vh;
   justify-content: flex-start;
   padding: 108px 0;
-  width: 100%;
+  width: 100vw;
 }
 .login .enter-password {
   background-color: transparent;
@@ -183,7 +183,7 @@
     background-color: var(--cararra);
     display: flex;
     flex-direction: column;
-    height: 100vw;
+    height: 100vh;
     justify-content: flex-start;
     width: 100vw;
   }
