@@ -11,9 +11,11 @@
   background-color: teal;
   display: flex;
   flex-direction: column;
-  height: 100%;
+  width:100%;
+  min-width:1000px;
+  height:auto;                                                                                                                   ;
   justify-content: flex-start;
-  padding: 150px 0;
+  padding: 0;
   width: 100%;
 }
 .login .enter- {
