@@ -11,10 +11,10 @@
   background-color: teal;
   display: flex;
   flex-direction: column;
-  height: 812px;
+  height: 100%;
   justify-content: flex-start;
-  padding: 164px 0;
-  width: 375px;
+  padding: 150px 0;
+  width: 100%;
 }
 .login .enter- {
   background-color: transparent;
