@@ -183,9 +183,9 @@
     background-color: var(--cararra);
     display: flex;
     flex-direction: column;
-    height: 100%;
+    height: 812px;
     justify-content: flex-start;
-    width: auto;
+    width: 375px;
   }
   .dashboard .align-left {
     align-items: flex-start;
@@ -197,7 +197,7 @@
     left: 25px;
     padding: 5px 0;
     position: absolute;
-    top: 69px;
+    top: 14px;
     width: 24px;
   }
   .dashboard .archive {
@@ -212,7 +212,7 @@
     top: 64px;
     width: 24px;
   }
-  .dashboard .auto-flex-C61RwL {
+  .dashboard .auto-flex {
     align-items: flex-start;
     background-color: transparent;
     display: inline-flex;
@@ -220,11 +220,12 @@
     flex-shrink: 0;
     height: 108px;
     justify-content: flex-start;
+    margin-right: 8px;
     margin-top: 19px;
     min-width: 251px;
     width: auto;
   }
-  .dashboard .auto-flex1-C61RwL {
+  .dashboard .auto-flex1 {
     align-items: flex-start;
     background-color: transparent;
     display: inline-flex;
@@ -232,6 +233,7 @@
     flex-shrink: 0;
     height: 107px;
     justify-content: flex-start;
+    margin-right: 8px;
     margin-top: 16px;
     min-width: 251px;
     width: auto;
@@ -260,7 +262,7 @@
     min-width: 24px;
     width: auto;
   }
-  .dashboard .auto-flex4-cYXVq0 {
+  .dashboard .auto-flex4 {
     align-items: flex-start;
     background-color: transparent;
     display: flex;
@@ -270,8 +272,8 @@
     justify-content: flex-start;
     margin-left: 7px;
     margin-top: 1px;
-    min-height: 78px;
-    width: 254px;
+    min-height: 70px;
+    width: 236px;
   }
   .dashboard .balance-1200 {
     background-color: transparent;
@@ -279,10 +281,10 @@
     height: auto;
     letter-spacing: 0px;
     line-height: normal;
-    margin-left: 2px;
-    margin-top: 6px;
+    margin-right: 6px;
+    margin-top: 9px;
     min-height: 26px;
-    min-width: 153px;
+    min-width: 143px;
     text-align: left;
     width: auto;
   }
@@ -324,7 +326,7 @@
     height: 55px;
     left: 62px;
     position: absolute;
-    top: 280px;
+    top: 225px;
     width: 55px;
   }
   .dashboard .ellipse-6 {
@@ -332,7 +334,7 @@
     height: 55px;
     left: 161px;
     position: absolute;
-    top: 280px;
+    top: 225px;
     width: 55px;
   }
   .dashboard .ellipse-7 {
@@ -340,7 +342,7 @@
     height: 55px;
     left: 259px;
     position: absolute;
-    top: 280px;
+    top: 225px;
     width: 55px;
   }
   .dashboard .fixed-users {
@@ -351,7 +353,7 @@
     line-height: normal;
     position: absolute;
     text-align: left;
-    top: 338px;
+    top: 283px;
     width: auto;
   }
   .dashboard .group-2 {
@@ -364,10 +366,10 @@
   .dashboard .group-23 {
     background-color: transparent;
     height: 24px;
-    left: 264px;
+    left: 271px;
     pointer-events: auto;
     position: absolute;
-    top: 71px;
+    top: 12px;
     transition: all 0.2s ease;
     width: 24px;
   }
@@ -381,10 +383,10 @@
     flex-direction: row;
     height: 24px;
     justify-content: center;
-    left: 315px;
+    left: 325px;
     min-width: 22px;
     position: absolute;
-    top: 71px;
+    top: 12px;
     width: auto;
   }
   .dashboard .group-6 {
@@ -410,7 +412,7 @@
     pointer-events: auto;
     position: absolute;
     text-align: left;
-    top: 142px;
+    top: 87px;
     transition: all 0.2s ease;
     width: 60px;
   }
@@ -438,7 +440,7 @@
     left: 51px;
     padding: 2.2px 2px;
     position: absolute;
-    top: 137px;
+    top: 82px;
     width: 24px;
   }
   .dashboard .outage-notice {
@@ -451,38 +453,21 @@
     text-align: left;
     width: 142px;
   }
-  .dashboard .overlap-group-C61RwL {
+  .dashboard .overlap-group {
     background-color: transparent;
     flex-shrink: 0;
-    height: 367px;
+    height: 312px;
     position: relative;
     width: 375px;
   }
-  .dashboard .overlap-group1-uxzUmT {
-    background-color: transparent;
-    flex-shrink: 0;
-    height: 107px;
-    margin-left: 21px;
-    position: relative;
-    width: 115px;
-  }
-  .dashboard .overlap-group2-fhuxN3 {
-    background-color: transparent;
-    flex-shrink: 0;
-    height: 107px;
-    margin-left: 21px;
-    position: relative;
-    width: 115px;
-  }
-  .dashboard .overlap-group3-fhuxN3 {
-    align-self: flex-end;
+  .dashboard .overlap-group1 {
     background-color: transparent;
     flex-shrink: 0;
     height: 107px;
     position: relative;
     width: 115px;
   }
-  .dashboard .overlap-group4-C61RwL {
+  .dashboard .overlap-group2 {
     align-items: flex-start;
     background-color: var(--tradewind);
     border-radius: 10px;
@@ -491,35 +476,51 @@
     flex-shrink: 0;
     height: 105px;
     justify-content: flex-start;
-    margin-left: 9px;
+    margin-left: 1px;
     margin-top: 4px;
     min-width: 322px;
     padding: 8px 9px;
     width: auto;
   }
-  .dashboard .overlap-group5-uxzUmT {
+  .dashboard .overlap-group3 {
+    align-self: flex-end;
     background-color: transparent;
     flex-shrink: 0;
     height: 107px;
     position: relative;
     width: 115px;
   }
-  .dashboard .overlap-group6-Fvosyl {
+  .dashboard .overlap-group4 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 107px;
+    margin-left: 21px;
+    position: relative;
+    width: 115px;
+  }
+  .dashboard .overlap-group5 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 107px;
+    margin-left: 21px;
+    position: relative;
+    width: 115px;
+  }
+  .dashboard .overlap-group6 {
     background-color: transparent;
     flex-shrink: 0;
     height: 19px;
     position: relative;
     width: 20px;
   }
-  .dashboard .overlap-group6-Si95dg {
+  .dashboard .overlap-group6-1 {
     background-color: transparent;
     flex-shrink: 0;
-    height: 16px;
-    margin-top: -172px;
+    height: 20px;
     position: relative;
-    width: 16px;
+    width: 24px;
   }
-  .dashboard .overlap-group6-g1U7oB {
+  .dashboard .overlap-group6-2 {
     align-items: flex-start;
     background-color: transparent;
     background-image: url(https://anima-uploads.s3.amazonaws.com/projects/5fddf7dbbed4714f37565c3c/releases/5fddf801746ef40da36af330/img/vector-13@2x.svg);
@@ -533,12 +534,13 @@
     padding: 6px 0;
     width: auto;
   }
-  .dashboard .overlap-group6-y8PJaT {
+  .dashboard .overlap-group6-3 {
     background-color: transparent;
     flex-shrink: 0;
-    height: 20px;
+    height: 16px;
+    margin-top: -172px;
     position: relative;
-    width: 24px;
+    width: 16px;
   }
   .dashboard .overlap-group7 {
     background-color: transparent;
@@ -555,7 +557,7 @@
     line-height: normal;
     position: absolute;
     text-align: left;
-    top: 338px;
+    top: 283px;
     width: auto;
   }
   .dashboard .payment {
@@ -595,19 +597,19 @@
   }
   .dashboard .rectangle-16 {
     background-color: teal;
-    border-radius: 10px;
-    height: 223px;
+    height: 168px;
     left: 0px;
     position: absolute;
     top: 0px;
     width: 375px;
   }
   .dashboard .rectangle-27 {
+    backdrop-filter: blur(25px) brightness(100%);
     background-color: transparent;
     height: 146px;
     left: 23px;
     position: absolute;
-    top: 124px;
+    top: 69px;
     width: 333px;
   }
   .dashboard .rectangle-28 {
@@ -616,7 +618,7 @@
     height: 30px;
     left: 47px;
     position: absolute;
-    top: 135px;
+    top: 80px;
     width: 86px;
   }
   .dashboard .rectangle-32 {
@@ -625,7 +627,7 @@
     height: 160px;
     left: 0px;
     position: absolute;
-    top: 207px;
+    top: 152px;
     width: 375px;
   }
   .dashboard .referral {
@@ -647,8 +649,19 @@
     line-height: normal;
     position: absolute;
     text-align: left;
-    top: 229px;
+    top: 174px;
     width: 60px;
+  }
+  .dashboard .text-1 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: auto;
+    letter-spacing: 0px;
+    line-height: normal;
+    margin-top: 10px;
+    min-height: 43px;
+    text-align: left;
+    width: 236px;
   }
   .dashboard .tickets {
     background-color: transparent;
@@ -669,7 +682,7 @@
     line-height: normal;
     position: absolute;
     text-align: left;
-    top: 338px;
+    top: 283px;
     width: auto;
   }
   .dashboard .user {
@@ -682,7 +695,7 @@
     left: 44px;
     padding: 2px 0;
     position: absolute;
-    top: 225px;
+    top: 170px;
     width: 24px;
   }
   .dashboard .users {
@@ -698,47 +711,7 @@
     top: 66px;
     width: 24px;
   }
-  .dashboard .vector-1gqQnx {
-    background-color: transparent;
-    height: 29px;
-    left: 276px;
-    position: absolute;
-    top: 128px;
-    width: 39px;
-  }
-  .dashboard .vector-2SNQha {
-    background-color: transparent;
-    height: 38px;
-    left: 224px;
-    position: absolute;
-    top: 127px;
-    width: 27px;
-  }
-  .dashboard .vector-2sSmWp {
-    align-self: flex-end;
-    background-color: transparent;
-    flex-shrink: 0;
-    height: 8px;
-    margin-left: 1px;
-    width: 5px;
-  }
-  .dashboard .vector-3aHM6H {
-    background-color: transparent;
-    height: 16px;
-    left: 7px;
-    position: absolute;
-    top: 0px;
-    width: 2px;
-  }
-  .dashboard .vector-4eduM0 {
-    background-color: transparent;
-    height: 12px;
-    left: 317px;
-    position: absolute;
-    top: 144px;
-    width: 12px;
-  }
-  .dashboard .vector-5TTT3t {
+  .dashboard .vector {
     background-color: transparent;
     height: 1px;
     left: 10px;
@@ -746,227 +719,347 @@
     top: 9px;
     width: 1px;
   }
-  .dashboard .vector-5X1Gnn {
-    background-color: transparent;
-    height: 14px;
-    left: 225px;
-    position: absolute;
-    top: 96px;
-    width: 24px;
-  }
-  .dashboard .vector-7tdPAv {
-    background-color: transparent;
-    flex-shrink: 0;
-    height: 2px;
-    width: 24px;
-  }
-  .dashboard .vector-8sKFi6 {
-    background-color: transparent;
-    height: 19px;
-    left: 0px;
-    position: absolute;
-    top: 0px;
-    width: 20px;
-  }
-  .dashboard .vector-AdwSsw {
-    background-color: transparent;
-    height: 20px;
-    left: 0px;
-    position: absolute;
-    top: 2px;
-    width: 18px;
-  }
-  .dashboard .vector-C6yuq7 {
-    background-color: transparent;
-    height: 58px;
-    left: 242px;
-    position: absolute;
-    top: 165px;
-    width: 33px;
-  }
-  .dashboard .vector-ClQjcT {
-    background-color: transparent;
-    height: 13px;
-    left: 226px;
-    position: absolute;
-    top: 102px;
-    width: 22px;
-  }
-  .dashboard .vector-DFXEif {
-    background-color: transparent;
-    flex-shrink: 0;
-    height: 2px;
-    margin-left: 2px;
-    margin-top: 2px;
-    width: 16px;
-  }
-  .dashboard .vector-DJoH15 {
-    background-color: transparent;
-    height: 69px;
-    left: 315px;
-    position: absolute;
-    top: 156px;
-    width: 26px;
-  }
-  .dashboard .vector-DiIRLh {
-    background-color: transparent;
-    height: 7px;
-    left: 0px;
-    position: absolute;
-    top: 0px;
-    width: 24px;
-  }
-  .dashboard .vector-EQhK18 {
-    background-color: transparent;
-    height: 3px;
-    left: 267px;
-    position: absolute;
-    top: 154px;
-    width: 16px;
-  }
-  .dashboard .vector-Euo9fQ {
-    background-color: transparent;
-    flex-shrink: 0;
-    height: 2px;
-    margin-left: 2px;
-    width: 20px;
-  }
-  .dashboard .vector-Hy6PHk {
-    background-color: transparent;
-    height: 5px;
-    left: 226px;
-    position: absolute;
-    top: 112px;
-    width: 4px;
-  }
-  .dashboard .vector-IGiLOY {
-    background-color: transparent;
-    height: 26px;
-    left: 243px;
-    position: absolute;
-    top: 128px;
-    width: 30px;
-  }
-  .dashboard .vector-IPCkFx {
-    background-color: transparent;
-    flex-shrink: 0;
-    height: 2px;
-    margin-left: 2px;
-    margin-top: 2px;
-    width: 20px;
-  }
-  .dashboard .vector-IVoeSW {
-    background-color: transparent;
-    height: 27px;
-    left: 225px;
-    position: absolute;
-    top: 99px;
-    width: 24px;
-  }
-  .dashboard .vector-K1TTj2 {
+  .dashboard .vector-1 {
     background-color: transparent;
     height: 6px;
-    left: 4px;
+    left: 323px;
     position: absolute;
-    top: 0px;
-    width: 10px;
-  }
-  .dashboard .vector-KZwGWc {
-    background-color: transparent;
-    height: 7px;
-    left: 257px;
-    position: absolute;
-    top: 140px;
+    top: 91px;
     width: 5px;
   }
-  .dashboard .vector-MdYAVO {
-    background-color: transparent;
-    height: 27px;
-    left: 224px;
-    position: absolute;
-    top: 129px;
-    width: 35px;
-  }
-  .dashboard .vector-NWM26U {
-    background-color: transparent;
-    height: 3px;
-    left: 296px;
-    position: absolute;
-    top: 141px;
-    width: 3px;
-  }
-  .dashboard .vector-O8Gmcv {
-    background-color: transparent;
-    height: 40px;
-    left: 237px;
-    position: absolute;
-    top: 178px;
-    width: 19px;
-  }
-  .dashboard .vector-P5eqX2 {
-    background-color: transparent;
-    height: 17px;
-    left: 224px;
-    position: absolute;
-    top: 164px;
-    width: 27px;
-  }
-  .dashboard .vector-QblXik {
+  .dashboard .vector-10 {
     background-color: transparent;
     height: 62px;
     left: 240px;
     position: absolute;
-    top: 155px;
+    top: 100px;
     width: 26px;
   }
-  .dashboard .vector-Smgnaw {
+  .dashboard .vector-11 {
+    background-color: transparent;
+    height: 135px;
+    left: 220px;
+    position: absolute;
+    top: 40px;
+    width: 58px;
+  }
+  .dashboard .vector-12 {
+    background-color: transparent;
+    height: 27px;
+    left: 225px;
+    position: absolute;
+    top: 44px;
+    width: 24px;
+  }
+  .dashboard .vector-13 {
+    background-color: transparent;
+    height: 26px;
+    left: 243px;
+    position: absolute;
+    top: 73px;
+    width: 30px;
+  }
+  .dashboard .vector-14 {
+    background-color: transparent;
+    height: 40px;
+    left: 217px;
+    position: absolute;
+    top: 123px;
+    width: 19px;
+  }
+  .dashboard .vector-15 {
+    background-color: transparent;
+    height: 40px;
+    left: 237px;
+    position: absolute;
+    top: 123px;
+    width: 19px;
+  }
+  .dashboard .vector-16 {
+    background-color: transparent;
+    height: 11px;
+    left: 229px;
+    position: absolute;
+    top: 129px;
+    width: 17px;
+  }
+  .dashboard .vector-17 {
+    background-color: transparent;
+    height: 11px;
+    left: 227px;
+    position: absolute;
+    top: 129px;
+    width: 17px;
+  }
+  .dashboard .vector-18 {
+    background-color: transparent;
+    height: 38px;
+    left: 224px;
+    position: absolute;
+    top: 72px;
+    width: 27px;
+  }
+  .dashboard .vector-19 {
+    background-color: transparent;
+    height: 17px;
+    left: 224px;
+    position: absolute;
+    top: 109px;
+    width: 27px;
+  }
+  .dashboard .vector-2 {
+    background-color: transparent;
+    height: 10px;
+    left: 221px;
+    position: absolute;
+    top: 119px;
+    width: 32px;
+  }
+  .dashboard .vector-20 {
+    background-color: transparent;
+    height: 26px;
+    left: 224px;
+    position: absolute;
+    top: 75px;
+    width: 35px;
+  }
+  .dashboard .vector-21 {
+    background-color: transparent;
+    height: 27px;
+    left: 224px;
+    position: absolute;
+    top: 74px;
+    width: 35px;
+  }
+  .dashboard .vector-22 {
+    background-color: transparent;
+    height: 4px;
+    left: 258px;
+    position: absolute;
+    top: 97px;
+    width: 8px;
+  }
+  .dashboard .vector-23 {
+    background-color: transparent;
+    height: 8px;
+    left: 269px;
+    position: absolute;
+    top: 71px;
+    width: 5px;
+  }
+  .dashboard .vector-24 {
+    background-color: transparent;
+    height: 2px;
+    left: 224px;
+    position: absolute;
+    top: 109px;
+    width: 27px;
+  }
+  .dashboard .vector-25 {
+    background-color: transparent;
+    height: 58px;
+    left: 242px;
+    position: absolute;
+    top: 110px;
+    width: 33px;
+  }
+  .dashboard .vector-26 {
     background-color: transparent;
     height: 12px;
     left: 245px;
     position: absolute;
-    top: 169px;
+    top: 114px;
     width: 12px;
   }
-  .dashboard .vector-TDv7IE {
+  .dashboard .vector-27 {
     background-color: transparent;
-    height: 24px;
-    left: 226px;
+    height: 54px;
+    left: 233px;
     position: absolute;
-    top: 103px;
-    width: 22px;
+    top: 113px;
+    width: 30px;
   }
-  .dashboard .vector-U0dawo {
+  .dashboard .vector-28 {
+    background-color: transparent;
+    height: 7px;
+    left: 257px;
+    position: absolute;
+    top: 85px;
+    width: 5px;
+  }
+  .dashboard .vector-29 {
+    background-color: transparent;
+    height: 9px;
+    left: 231px;
+    position: absolute;
+    top: 164px;
+    width: 15px;
+  }
+  .dashboard .vector-3 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 2px;
+    margin-left: 2px;
+    margin-top: 2px;
+    width: 16px;
+  }
+  .dashboard .vector-30 {
     background-color: transparent;
     height: 9px;
     left: 262px;
     position: absolute;
-    top: 220px;
+    top: 165px;
     width: 15px;
   }
-  .dashboard .vector-U9DIFL {
+  .dashboard .vector-31 {
+    background-color: transparent;
+    height: 12px;
+    left: 234px;
+    position: absolute;
+    top: 66px;
+    width: 7px;
+  }
+  .dashboard .vector-32 {
+    background-color: transparent;
+    height: 7px;
+    left: 234px;
+    position: absolute;
+    top: 66px;
+    width: 7px;
+  }
+  .dashboard .vector-33 {
+    background-color: transparent;
+    height: 24px;
+    left: 226px;
+    position: absolute;
+    top: 48px;
+    width: 22px;
+  }
+  .dashboard .vector-34 {
+    background-color: transparent;
+    height: 13px;
+    left: 226px;
+    position: absolute;
+    top: 47px;
+    width: 22px;
+  }
+  .dashboard .vector-35 {
+    background-color: transparent;
+    height: 14px;
+    left: 226px;
+    position: absolute;
+    top: 46px;
+    width: 22px;
+  }
+  .dashboard .vector-36 {
+    background-color: transparent;
+    height: 5px;
+    left: 226px;
+    position: absolute;
+    top: 57px;
+    width: 4px;
+  }
+  .dashboard .vector-37 {
+    background-color: transparent;
+    height: 14px;
+    left: 225px;
+    position: absolute;
+    top: 41px;
+    width: 24px;
+  }
+  .dashboard .vector-38 {
+    background-color: transparent;
+    height: 2px;
+    left: 283px;
+    position: absolute;
+    top: 113px;
+    width: 1px;
+  }
+  .dashboard .vector-39 {
+    background-color: transparent;
+    height: 69px;
+    left: 315px;
+    position: absolute;
+    top: 101px;
+    width: 26px;
+  }
+  .dashboard .vector-4 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 10px;
+    width: 10px;
+  }
+  .dashboard .vector-40 {
+    background-color: transparent;
+    height: 5px;
+    left: 244px;
+    position: absolute;
+    top: 100px;
+    width: 94px;
+  }
+  .dashboard .vector-41 {
+    background-color: transparent;
+    height: 3px;
+    left: 267px;
+    position: absolute;
+    top: 99px;
+    width: 16px;
+  }
+  .dashboard .vector-42 {
+    background-color: transparent;
+    height: 29px;
+    left: 276px;
+    position: absolute;
+    top: 73px;
+    width: 39px;
+  }
+  .dashboard .vector-43 {
     background-color: transparent;
     height: 29px;
     left: 277px;
     position: absolute;
-    top: 128px;
+    top: 73px;
     width: 36px;
   }
-  .dashboard .vector-ULnOop {
+  .dashboard .vector-44 {
+    background-color: transparent;
+    height: 29px;
+    left: 277px;
+    position: absolute;
+    top: 73px;
+    width: 37px;
+  }
+  .dashboard .vector-45 {
+    background-color: transparent;
+    height: 3px;
+    left: 296px;
+    position: absolute;
+    top: 86px;
+    width: 3px;
+  }
+  .dashboard .vector-46 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 2px;
+    margin-left: 2px;
+    width: 20px;
+  }
+  .dashboard .vector-47 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 2px;
+    margin-left: 2px;
+    margin-top: 2px;
+    width: 20px;
+  }
+  .dashboard .vector-48 {
     background-color: transparent;
     flex-shrink: 0;
     height: 8px;
     margin-top: 2px;
     width: 18px;
   }
-  .dashboard .vector-VFfqc6 {
-    background-color: transparent;
-    height: 5px;
-    left: 244px;
-    position: absolute;
-    top: 155px;
-    width: 94px;
-  }
-  .dashboard .vector-WQtoXK {
+  .dashboard .vector-49 {
     background-color: transparent;
     height: 15px;
     left: 2px;
@@ -974,123 +1067,23 @@
     top: 5px;
     width: 20px;
   }
-  .dashboard .vector-WyyNAW {
+  .dashboard .vector-5 {
     background-color: transparent;
-    height: 40px;
-    left: 217px;
-    position: absolute;
-    top: 178px;
-    width: 19px;
-  }
-  .dashboard .vector-XBFY4e {
-    background-color: transparent;
-    flex-shrink: 0;
-    height: 8px;
-    width: 18px;
-  }
-  .dashboard .vector-awLGOW {
-    background-color: transparent;
-    flex-shrink: 0;
-    height: 10px;
-    width: 10px;
-  }
-  .dashboard .vector-bfnWtx {
-    background-color: transparent;
-    height: 14px;
-    left: 226px;
-    position: absolute;
-    top: 101px;
-    width: 22px;
-  }
-  .dashboard .vector-bvYBPm {
-    background-color: transparent;
-    height: 4px;
-    left: 258px;
-    position: absolute;
-    top: 152px;
-    width: 8px;
-  }
-  .dashboard .vector-eXQ1Yh {
-    background-color: transparent;
-    height: 26px;
-    left: 224px;
-    position: absolute;
-    top: 130px;
-    width: 35px;
-  }
-  .dashboard .vector-ek4ynR {
-    background-color: transparent;
-    height: 2px;
+    height: 19px;
     left: 0px;
     position: absolute;
-    top: 7px;
-    width: 16px;
+    top: 0px;
+    width: 20px;
   }
-  .dashboard .vector-gBWxCK {
+  .dashboard .vector-50 {
     background-color: transparent;
-    height: 54px;
-    left: 233px;
+    height: 7px;
+    left: 0px;
     position: absolute;
-    top: 168px;
-    width: 30px;
+    top: 0px;
+    width: 24px;
   }
-  .dashboard .vector-hbmWG9 {
-    background-color: transparent;
-    height: 8px;
-    left: 318px;
-    position: absolute;
-    top: 137px;
-    width: 8px;
-  }
-  .dashboard .vector-kg0v8u {
-    align-self: flex-end;
-    background-color: transparent;
-    flex-shrink: 0;
-    height: 10px;
-    margin-left: 0px;
-    width: 6px;
-  }
-  .dashboard .vector-oRRfhC {
-    background-color: transparent;
-    height: 8px;
-    left: 269px;
-    position: absolute;
-    top: 126px;
-    width: 5px;
-  }
-  .dashboard .vector-ovOecM {
-    background-color: transparent;
-    height: 11px;
-    left: 317px;
-    position: absolute;
-    top: 144px;
-    width: 9px;
-  }
-  .dashboard .vector-pBEp5a {
-    background-color: transparent;
-    height: 9px;
-    left: 231px;
-    position: absolute;
-    top: 219px;
-    width: 15px;
-  }
-  .dashboard .vector-qntuzE {
-    background-color: transparent;
-    height: 135px;
-    left: 220px;
-    position: absolute;
-    top: 95px;
-    width: 58px;
-  }
-  .dashboard .vector-u9AGDK {
-    background-color: transparent;
-    height: 11px;
-    left: 229px;
-    position: absolute;
-    top: 184px;
-    width: 17px;
-  }
-  .dashboard .vector-vNBS0v {
+  .dashboard .vector-51 {
     background-color: transparent;
     height: 2px;
     left: 9px;
@@ -1098,143 +1091,161 @@
     top: 9px;
     width: 6px;
   }
-  .dashboard .vector-vf0OZv {
+  .dashboard .vector-52 {
     background-color: transparent;
-    height: 7px;
-    left: 234px;
-    position: absolute;
-    top: 121px;
-    width: 7px;
+    flex-shrink: 0;
+    height: 2px;
+    width: 24px;
   }
-  .dashboard .vector-vzijhg {
+  .dashboard .vector-53 {
+    background-color: transparent;
+    height: 16px;
+    left: 7px;
+    position: absolute;
+    top: 0px;
+    width: 2px;
+  }
+  .dashboard .vector-54 {
     background-color: transparent;
     height: 2px;
-    left: 283px;
+    left: 0px;
     position: absolute;
-    top: 168px;
-    width: 1px;
+    top: 7px;
+    width: 16px;
   }
-  .dashboard .vector-wHu3oe {
+  .dashboard .vector-55 {
+    background-color: transparent;
+    height: 20px;
+    left: 0px;
+    position: absolute;
+    top: 2px;
+    width: 18px;
+  }
+  .dashboard .vector-56 {
+    background-color: transparent;
+    height: 6px;
+    left: 4px;
+    position: absolute;
+    top: 0px;
+    width: 10px;
+  }
+  .dashboard .vector-57 {
+    align-self: flex-end;
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 10px;
+    margin-left: 0px;
+    width: 6px;
+  }
+  .dashboard .vector-58 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 8px;
+    width: 18px;
+  }
+  .dashboard .vector-59 {
+    align-self: flex-end;
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 8px;
+    margin-left: 1px;
+    width: 5px;
+  }
+  .dashboard .vector-6 {
+    background-color: transparent;
+    height: 12px;
+    left: 317px;
+    position: absolute;
+    top: 89px;
+    width: 12px;
+  }
+  .dashboard .vector-7 {
     background-color: transparent;
     height: 11px;
-    left: 227px;
+    left: 317px;
     position: absolute;
-    top: 184px;
-    width: 17px;
+    top: 89px;
+    width: 9px;
   }
-  .dashboard .vector-wPpLiT {
+  .dashboard .vector-8 {
     background-color: transparent;
     height: 11px;
     left: 322px;
     position: absolute;
-    top: 144px;
+    top: 89px;
     width: 4px;
   }
-  .dashboard .vector-we5xli {
+  .dashboard .vector-9 {
     background-color: transparent;
-    height: 10px;
-    left: 221px;
+    height: 8px;
+    left: 318px;
     position: absolute;
-    top: 174px;
-    width: 32px;
+    top: 82px;
+    width: 8px;
   }
-  .dashboard .vector-xMhxo7 {
-    background-color: transparent;
-    height: 12px;
-    left: 234px;
-    position: absolute;
-    top: 121px;
-    width: 7px;
-  }
-  .dashboard .vector-xUEsDL {
-    background-color: transparent;
-    height: 2px;
-    left: 224px;
-    position: absolute;
-    top: 164px;
-    width: 27px;
-  }
-  .dashboard .vector-ypxaWw {
-    background-color: transparent;
-    height: 6px;
-    left: 323px;
-    position: absolute;
-    top: 146px;
-    width: 5px;
-  }
-  .dashboard .vector-ziVTg7 {
-    background-color: transparent;
-    height: 29px;
-    left: 277px;
-    position: absolute;
-    top: 128px;
-    width: 37px;
-  }
-  .dashboard .we-are-exp-ta-2-hours {
-    align-self: flex-end;
-    background-color: transparent;
-    flex-shrink: 0;
-    height: auto;
-    letter-spacing: 0px;
-    line-height: normal;
-    margin-top: 18px;
-    min-height: 43px;
-    text-align: left;
-    width: 236px;
-  }
-  .opensans-regular-normal-rose-white-18px {
+  .opensans-normal-rose-white-18px {
     color: var(--rose-white-2);
-    font-family: "Open Sans-Regular", Helvetica, Arial, serif;
+    font-family: "Open Sans", Helvetica, Arial, serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
   }
-  .poppins-regular-normal-black-10px {
+  .poppins-normal-black-10px {
     color: black;
-    font-family: "Poppins-Regular", Helvetica, Arial, serif;
+    font-family: "Poppins", Helvetica, Arial, serif;
     font-size: 10px;
     font-style: normal;
     font-weight: 400;
   }
   .roboto-medium-tradewind-22px {
     color: var(--tradewind);
-    font-family: "Roboto-Medium", Helvetica, Arial, serif;
+    font-family: "Roboto", Helvetica, Arial, serif;
     font-size: 22px;
     font-style: normal;
     font-weight: 500;
   }
   .roboto-medium-zeus-22px {
     color: var(--zeus);
-    font-family: "Roboto-Medium", Helvetica, Arial, serif;
+    font-family: "Roboto", Helvetica, Arial, serif;
     font-size: 22px;
     font-style: normal;
     font-weight: 500;
   }
-  .roboto-regular-normal-alabaster-14px {
+  .roboto-normal-alabaster-14px {
     color: var(--alabaster);
-    font-family: "Roboto-Regular", Helvetica, Arial, serif;
+    font-family: "Roboto", Helvetica, Arial, serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
   }
-  .roboto-regular-normal-cultured-pearl-10px {
+  .roboto-normal-cultured-pearl-10px {
     color: rgba(248, 245, 245, 1);
-    font-family: "Roboto-Regular", Helvetica, Arial, serif;
+    font-family: "Roboto", Helvetica, Arial, serif;
     font-size: 10px;
     font-style: normal;
     font-weight: 400;
   }
-  .roboto-regular-normal-tradewind-14px {
+  .roboto-normal-tradewind-14px {
     color: var(--tradewind);
-    font-family: "Roboto-Regular", Helvetica, Arial, serif;
+    font-family: "Roboto", Helvetica, Arial, serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
   }
 
+
 :root {
   --soft-peach: rgba(245, 240, 240, 1);
   --tradewind: rgba(77, 182, 172, 1);
+  --alabaster: rgba(253, 250, 250, 1);
+  --cararra: rgba(239, 233, 233, 1);
+  --cloud: rgba(199, 197, 197, 1);
+  --gallery: rgba(240, 236, 236, 1);
+  --rose-white: rgba(255, 245, 245, 1);
+  --rose-white-2: rgba(253, 245, 245, 1);
+  --tradewind: rgba(77, 182, 172, 1);
+  --zeus: rgba(38, 34, 34, 1);
+
   --alabaster: rgba(253, 250, 250, 1);
   --cararra: rgba(239, 233, 233, 1);
   --cloud: rgba(199, 197, 197, 1);
