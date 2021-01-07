@@ -177,6 +177,1061 @@
   font-style: normal;
   font-weight: 400;
 }
+
+.dashboard {
+    align-items: center;
+    background-color: var(--cararra);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: flex-start;
+    width: auto;
+  }
+  .dashboard .align-left {
+    align-items: flex-start;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    height: 24px;
+    justify-content: flex-start;
+    left: 25px;
+    padding: 5px 0;
+    position: absolute;
+    top: 69px;
+    width: 24px;
+  }
+  .dashboard .archive {
+    align-items: center;
+    background-color: transparent;
+    display: inline-flex;
+    flex-direction: row;
+    height: 24px;
+    justify-content: flex-start;
+    left: 45px;
+    position: absolute;
+    top: 64px;
+    width: 24px;
+  }
+  .dashboard .auto-flex-C61RwL {
+    align-items: flex-start;
+    background-color: transparent;
+    display: inline-flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    height: 108px;
+    justify-content: flex-start;
+    margin-top: 19px;
+    min-width: 251px;
+    width: auto;
+  }
+  .dashboard .auto-flex1-C61RwL {
+    align-items: flex-start;
+    background-color: transparent;
+    display: inline-flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    height: 107px;
+    justify-content: flex-start;
+    margin-top: 16px;
+    min-width: 251px;
+    width: auto;
+  }
+  .dashboard .auto-flex2 {
+    align-items: flex-start;
+    background-color: transparent;
+    display: inline-flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    height: 10px;
+    justify-content: flex-start;
+    margin-left: 4px;
+    min-width: 17px;
+    width: auto;
+  }
+  .dashboard .auto-flex3 {
+    align-items: flex-start;
+    background-color: transparent;
+    display: inline-flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    height: 8px;
+    justify-content: flex-start;
+    margin-top: 1px;
+    min-width: 24px;
+    width: auto;
+  }
+  .dashboard .auto-flex4-cYXVq0 {
+    align-items: flex-start;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    height: auto;
+    justify-content: flex-start;
+    margin-left: 7px;
+    margin-top: 1px;
+    min-height: 78px;
+    width: 254px;
+  }
+  .dashboard .balance-1200 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: auto;
+    letter-spacing: 0px;
+    line-height: normal;
+    margin-left: 2px;
+    margin-top: 6px;
+    min-height: 26px;
+    min-width: 153px;
+    text-align: left;
+    width: auto;
+  }
+  .dashboard .clipboard {
+    align-items: center;
+    background-color: transparent;
+    display: inline-flex;
+    flex-direction: row;
+    height: 24px;
+    justify-content: flex-start;
+    left: 45px;
+    padding: 0 3px;
+    position: absolute;
+    top: 65px;
+    width: 24px;
+  }
+  .dashboard .credit-card {
+    align-items: center;
+    background-color: transparent;
+    display: inline-flex;
+    flex-direction: row;
+    height: 24px;
+    justify-content: flex-start;
+    left: 45px;
+    position: absolute;
+    top: 67px;
+    width: 24px;
+  }
+  .dashboard .ellipse- {
+    background-color: transparent;
+    height: 48px;
+    left: 33px;
+    position: absolute;
+    top: 59px;
+    width: 48px;
+  }
+  .dashboard .ellipse-5 {
+    background-color: transparent;
+    height: 55px;
+    left: 62px;
+    position: absolute;
+    top: 280px;
+    width: 55px;
+  }
+  .dashboard .ellipse-6 {
+    background-color: transparent;
+    height: 55px;
+    left: 161px;
+    position: absolute;
+    top: 280px;
+    width: 55px;
+  }
+  .dashboard .ellipse-7 {
+    background-color: transparent;
+    height: 55px;
+    left: 259px;
+    position: absolute;
+    top: 280px;
+    width: 55px;
+  }
+  .dashboard .fixed-users {
+    background-color: transparent;
+    height: auto;
+    left: 161px;
+    letter-spacing: 0px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 338px;
+    width: auto;
+  }
+  .dashboard .group-2 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 32px;
+    margin-bottom: -8px;
+    width: 30px;
+  }
+  .dashboard .group-23 {
+    background-color: transparent;
+    height: 24px;
+    left: 264px;
+    pointer-events: auto;
+    position: absolute;
+    top: 71px;
+    transition: all 0.2s ease;
+    width: 24px;
+  }
+  .dashboard .group-23:hover {
+    transform: scale(0.9);
+  }
+  .dashboard .group-24 {
+    align-items: flex-end;
+    background-color: transparent;
+    display: inline-flex;
+    flex-direction: row;
+    height: 24px;
+    justify-content: center;
+    left: 315px;
+    min-width: 22px;
+    position: absolute;
+    top: 71px;
+    width: auto;
+  }
+  .dashboard .group-6 {
+    background-color: transparent;
+    height: 32px;
+    left: -4px;
+    position: absolute;
+    top: 0px;
+    width: 32px;
+  }
+  .dashboard .group-7 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 30px;
+    width: 30px;
+  }
+  .dashboard .hotspot {
+    background-color: transparent;
+    height: auto;
+    left: 77px;
+    letter-spacing: 0px;
+    line-height: normal;
+    pointer-events: auto;
+    position: absolute;
+    text-align: left;
+    top: 142px;
+    transition: all 0.2s ease;
+    width: 60px;
+  }
+  .dashboard .hotspot:hover {
+    transform: scale(1.1);
+  }
+  .dashboard .invoice {
+    background-color: transparent;
+    height: auto;
+    left: 22px;
+    letter-spacing: 0px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 28px;
+    width: auto;
+  }
+  .dashboard .mdiwifitethering {
+    align-items: flex-end;
+    background-color: transparent;
+    display: inline-flex;
+    flex-direction: row;
+    height: 24px;
+    justify-content: flex-start;
+    left: 51px;
+    padding: 2.2px 2px;
+    position: absolute;
+    top: 137px;
+    width: 24px;
+  }
+  .dashboard .outage-notice {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: auto;
+    letter-spacing: 0px;
+    line-height: normal;
+    min-height: 17px;
+    text-align: left;
+    width: 142px;
+  }
+  .dashboard .overlap-group-C61RwL {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 367px;
+    position: relative;
+    width: 375px;
+  }
+  .dashboard .overlap-group1-uxzUmT {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 107px;
+    margin-left: 21px;
+    position: relative;
+    width: 115px;
+  }
+  .dashboard .overlap-group2-fhuxN3 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 107px;
+    margin-left: 21px;
+    position: relative;
+    width: 115px;
+  }
+  .dashboard .overlap-group3-fhuxN3 {
+    align-self: flex-end;
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 107px;
+    position: relative;
+    width: 115px;
+  }
+  .dashboard .overlap-group4-C61RwL {
+    align-items: flex-start;
+    background-color: var(--tradewind);
+    border-radius: 10px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    height: 105px;
+    justify-content: flex-start;
+    margin-left: 9px;
+    margin-top: 4px;
+    min-width: 322px;
+    padding: 8px 9px;
+    width: auto;
+  }
+  .dashboard .overlap-group5-uxzUmT {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 107px;
+    position: relative;
+    width: 115px;
+  }
+  .dashboard .overlap-group6-Fvosyl {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 19px;
+    position: relative;
+    width: 20px;
+  }
+  .dashboard .overlap-group6-Si95dg {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 16px;
+    margin-top: -172px;
+    position: relative;
+    width: 16px;
+  }
+  .dashboard .overlap-group6-g1U7oB {
+    align-items: flex-start;
+    background-color: transparent;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/5fddf7dbbed4714f37565c3c/releases/5fddf801746ef40da36af330/img/vector-13@2x.svg);
+    background-size: 100% 100%;
+    display: inline-flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    height: 18px;
+    justify-content: flex-start;
+    min-width: 24px;
+    padding: 6px 0;
+    width: auto;
+  }
+  .dashboard .overlap-group6-y8PJaT {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 20px;
+    position: relative;
+    width: 24px;
+  }
+  .dashboard .overlap-group7 {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 22px;
+    position: relative;
+    width: 18px;
+  }
+  .dashboard .packages {
+    background-color: transparent;
+    height: auto;
+    left: 65px;
+    letter-spacing: 0px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 338px;
+    width: auto;
+  }
+  .dashboard .payment {
+    background-color: transparent;
+    height: auto;
+    left: 13px;
+    letter-spacing: 0px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 28px;
+    width: auto;
+  }
+  .dashboard .plus {
+    align-items: flex-start;
+    background-color: transparent;
+    display: inline-flex;
+    flex-direction: row;
+    height: 24px;
+    justify-content: flex-start;
+    left: 14px;
+    overflow: hidden;
+    padding: 0 3px;
+    position: absolute;
+    top: 67px;
+    width: 24px;
+  }
+  .dashboard .rectangle- {
+    background-color: var(--rose-white);
+    border-radius: 10px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.25);
+    height: 81px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 115px;
+  }
+  .dashboard .rectangle-16 {
+    background-color: teal;
+    border-radius: 10px;
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 375px;
+  }
+  .dashboard .rectangle-27 {
+    background-color: transparent;
+    height: 146px;
+    left: 23px;
+    position: absolute;
+    top: 124px;
+    width: 333px;
+  }
+  .dashboard .rectangle-28 {
+    background-color: var(--gallery);
+    border-radius: 10px;
+    height: 30px;
+    left: 47px;
+    position: absolute;
+    top: 135px;
+    width: 86px;
+  }
+  .dashboard .rectangle-32 {
+    background-color: var(--cloud);
+    border-radius: 10px;
+    height: 160px;
+    left: 0px;
+    position: absolute;
+    top: 207px;
+    width: 375px;
+  }
+  .dashboard .referral {
+    background-color: transparent;
+    height: auto;
+    left: 19px;
+    letter-spacing: 0px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 28px;
+    width: auto;
+  }
+  .dashboard .sign-in {
+    background-color: transparent;
+    height: auto;
+    left: 73px;
+    letter-spacing: 0px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 229px;
+    width: 60px;
+  }
+  .dashboard .tickets {
+    background-color: transparent;
+    height: auto;
+    left: 19px;
+    letter-spacing: 0px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 28px;
+    width: auto;
+  }
+  .dashboard .trial-use {
+    background-color: transparent;
+    height: auto;
+    left: 267px;
+    letter-spacing: 0px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 338px;
+    width: auto;
+  }
+  .dashboard .user {
+    align-items: center;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    height: 24px;
+    justify-content: flex-start;
+    left: 44px;
+    padding: 2px 0;
+    position: absolute;
+    top: 225px;
+    width: 24px;
+  }
+  .dashboard .users {
+    align-items: flex-start;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    height: 24px;
+    justify-content: flex-start;
+    left: 46px;
+    padding: 1.9px 0;
+    position: absolute;
+    top: 66px;
+    width: 24px;
+  }
+  .dashboard .vector-1gqQnx {
+    background-color: transparent;
+    height: 29px;
+    left: 276px;
+    position: absolute;
+    top: 128px;
+    width: 39px;
+  }
+  .dashboard .vector-2SNQha {
+    background-color: transparent;
+    height: 38px;
+    left: 224px;
+    position: absolute;
+    top: 127px;
+    width: 27px;
+  }
+  .dashboard .vector-2sSmWp {
+    align-self: flex-end;
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 8px;
+    margin-left: 1px;
+    width: 5px;
+  }
+  .dashboard .vector-3aHM6H {
+    background-color: transparent;
+    height: 16px;
+    left: 7px;
+    position: absolute;
+    top: 0px;
+    width: 2px;
+  }
+  .dashboard .vector-4eduM0 {
+    background-color: transparent;
+    height: 12px;
+    left: 317px;
+    position: absolute;
+    top: 144px;
+    width: 12px;
+  }
+  .dashboard .vector-5TTT3t {
+    background-color: transparent;
+    height: 1px;
+    left: 10px;
+    position: absolute;
+    top: 9px;
+    width: 1px;
+  }
+  .dashboard .vector-5X1Gnn {
+    background-color: transparent;
+    height: 14px;
+    left: 225px;
+    position: absolute;
+    top: 96px;
+    width: 24px;
+  }
+  .dashboard .vector-7tdPAv {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 2px;
+    width: 24px;
+  }
+  .dashboard .vector-8sKFi6 {
+    background-color: transparent;
+    height: 19px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 20px;
+  }
+  .dashboard .vector-AdwSsw {
+    background-color: transparent;
+    height: 20px;
+    left: 0px;
+    position: absolute;
+    top: 2px;
+    width: 18px;
+  }
+  .dashboard .vector-C6yuq7 {
+    background-color: transparent;
+    height: 58px;
+    left: 242px;
+    position: absolute;
+    top: 165px;
+    width: 33px;
+  }
+  .dashboard .vector-ClQjcT {
+    background-color: transparent;
+    height: 13px;
+    left: 226px;
+    position: absolute;
+    top: 102px;
+    width: 22px;
+  }
+  .dashboard .vector-DFXEif {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 2px;
+    margin-left: 2px;
+    margin-top: 2px;
+    width: 16px;
+  }
+  .dashboard .vector-DJoH15 {
+    background-color: transparent;
+    height: 69px;
+    left: 315px;
+    position: absolute;
+    top: 156px;
+    width: 26px;
+  }
+  .dashboard .vector-DiIRLh {
+    background-color: transparent;
+    height: 7px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 24px;
+  }
+  .dashboard .vector-EQhK18 {
+    background-color: transparent;
+    height: 3px;
+    left: 267px;
+    position: absolute;
+    top: 154px;
+    width: 16px;
+  }
+  .dashboard .vector-Euo9fQ {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 2px;
+    margin-left: 2px;
+    width: 20px;
+  }
+  .dashboard .vector-Hy6PHk {
+    background-color: transparent;
+    height: 5px;
+    left: 226px;
+    position: absolute;
+    top: 112px;
+    width: 4px;
+  }
+  .dashboard .vector-IGiLOY {
+    background-color: transparent;
+    height: 26px;
+    left: 243px;
+    position: absolute;
+    top: 128px;
+    width: 30px;
+  }
+  .dashboard .vector-IPCkFx {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 2px;
+    margin-left: 2px;
+    margin-top: 2px;
+    width: 20px;
+  }
+  .dashboard .vector-IVoeSW {
+    background-color: transparent;
+    height: 27px;
+    left: 225px;
+    position: absolute;
+    top: 99px;
+    width: 24px;
+  }
+  .dashboard .vector-K1TTj2 {
+    background-color: transparent;
+    height: 6px;
+    left: 4px;
+    position: absolute;
+    top: 0px;
+    width: 10px;
+  }
+  .dashboard .vector-KZwGWc {
+    background-color: transparent;
+    height: 7px;
+    left: 257px;
+    position: absolute;
+    top: 140px;
+    width: 5px;
+  }
+  .dashboard .vector-MdYAVO {
+    background-color: transparent;
+    height: 27px;
+    left: 224px;
+    position: absolute;
+    top: 129px;
+    width: 35px;
+  }
+  .dashboard .vector-NWM26U {
+    background-color: transparent;
+    height: 3px;
+    left: 296px;
+    position: absolute;
+    top: 141px;
+    width: 3px;
+  }
+  .dashboard .vector-O8Gmcv {
+    background-color: transparent;
+    height: 40px;
+    left: 237px;
+    position: absolute;
+    top: 178px;
+    width: 19px;
+  }
+  .dashboard .vector-P5eqX2 {
+    background-color: transparent;
+    height: 17px;
+    left: 224px;
+    position: absolute;
+    top: 164px;
+    width: 27px;
+  }
+  .dashboard .vector-QblXik {
+    background-color: transparent;
+    height: 62px;
+    left: 240px;
+    position: absolute;
+    top: 155px;
+    width: 26px;
+  }
+  .dashboard .vector-Smgnaw {
+    background-color: transparent;
+    height: 12px;
+    left: 245px;
+    position: absolute;
+    top: 169px;
+    width: 12px;
+  }
+  .dashboard .vector-TDv7IE {
+    background-color: transparent;
+    height: 24px;
+    left: 226px;
+    position: absolute;
+    top: 103px;
+    width: 22px;
+  }
+  .dashboard .vector-U0dawo {
+    background-color: transparent;
+    height: 9px;
+    left: 262px;
+    position: absolute;
+    top: 220px;
+    width: 15px;
+  }
+  .dashboard .vector-U9DIFL {
+    background-color: transparent;
+    height: 29px;
+    left: 277px;
+    position: absolute;
+    top: 128px;
+    width: 36px;
+  }
+  .dashboard .vector-ULnOop {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 8px;
+    margin-top: 2px;
+    width: 18px;
+  }
+  .dashboard .vector-VFfqc6 {
+    background-color: transparent;
+    height: 5px;
+    left: 244px;
+    position: absolute;
+    top: 155px;
+    width: 94px;
+  }
+  .dashboard .vector-WQtoXK {
+    background-color: transparent;
+    height: 15px;
+    left: 2px;
+    position: absolute;
+    top: 5px;
+    width: 20px;
+  }
+  .dashboard .vector-WyyNAW {
+    background-color: transparent;
+    height: 40px;
+    left: 217px;
+    position: absolute;
+    top: 178px;
+    width: 19px;
+  }
+  .dashboard .vector-XBFY4e {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 8px;
+    width: 18px;
+  }
+  .dashboard .vector-awLGOW {
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 10px;
+    width: 10px;
+  }
+  .dashboard .vector-bfnWtx {
+    background-color: transparent;
+    height: 14px;
+    left: 226px;
+    position: absolute;
+    top: 101px;
+    width: 22px;
+  }
+  .dashboard .vector-bvYBPm {
+    background-color: transparent;
+    height: 4px;
+    left: 258px;
+    position: absolute;
+    top: 152px;
+    width: 8px;
+  }
+  .dashboard .vector-eXQ1Yh {
+    background-color: transparent;
+    height: 26px;
+    left: 224px;
+    position: absolute;
+    top: 130px;
+    width: 35px;
+  }
+  .dashboard .vector-ek4ynR {
+    background-color: transparent;
+    height: 2px;
+    left: 0px;
+    position: absolute;
+    top: 7px;
+    width: 16px;
+  }
+  .dashboard .vector-gBWxCK {
+    background-color: transparent;
+    height: 54px;
+    left: 233px;
+    position: absolute;
+    top: 168px;
+    width: 30px;
+  }
+  .dashboard .vector-hbmWG9 {
+    background-color: transparent;
+    height: 8px;
+    left: 318px;
+    position: absolute;
+    top: 137px;
+    width: 8px;
+  }
+  .dashboard .vector-kg0v8u {
+    align-self: flex-end;
+    background-color: transparent;
+    flex-shrink: 0;
+    height: 10px;
+    margin-left: 0px;
+    width: 6px;
+  }
+  .dashboard .vector-oRRfhC {
+    background-color: transparent;
+    height: 8px;
+    left: 269px;
+    position: absolute;
+    top: 126px;
+    width: 5px;
+  }
+  .dashboard .vector-ovOecM {
+    background-color: transparent;
+    height: 11px;
+    left: 317px;
+    position: absolute;
+    top: 144px;
+    width: 9px;
+  }
+  .dashboard .vector-pBEp5a {
+    background-color: transparent;
+    height: 9px;
+    left: 231px;
+    position: absolute;
+    top: 219px;
+    width: 15px;
+  }
+  .dashboard .vector-qntuzE {
+    background-color: transparent;
+    height: 135px;
+    left: 220px;
+    position: absolute;
+    top: 95px;
+    width: 58px;
+  }
+  .dashboard .vector-u9AGDK {
+    background-color: transparent;
+    height: 11px;
+    left: 229px;
+    position: absolute;
+    top: 184px;
+    width: 17px;
+  }
+  .dashboard .vector-vNBS0v {
+    background-color: transparent;
+    height: 2px;
+    left: 9px;
+    position: absolute;
+    top: 9px;
+    width: 6px;
+  }
+  .dashboard .vector-vf0OZv {
+    background-color: transparent;
+    height: 7px;
+    left: 234px;
+    position: absolute;
+    top: 121px;
+    width: 7px;
+  }
+  .dashboard .vector-vzijhg {
+    background-color: transparent;
+    height: 2px;
+    left: 283px;
+    position: absolute;
+    top: 168px;
+    width: 1px;
+  }
+  .dashboard .vector-wHu3oe {
+    background-color: transparent;
+    height: 11px;
+    left: 227px;
+    position: absolute;
+    top: 184px;
+    width: 17px;
+  }
+  .dashboard .vector-wPpLiT {
+    background-color: transparent;
+    height: 11px;
+    left: 322px;
+    position: absolute;
+    top: 144px;
+    width: 4px;
+  }
+  .dashboard .vector-we5xli {
+    background-color: transparent;
+    height: 10px;
+    left: 221px;
+    position: absolute;
+    top: 174px;
+    width: 32px;
+  }
+  .dashboard .vector-xMhxo7 {
+    background-color: transparent;
+    height: 12px;
+    left: 234px;
+    position: absolute;
+    top: 121px;
+    width: 7px;
+  }
+  .dashboard .vector-xUEsDL {
+    background-color: transparent;
+    height: 2px;
+    left: 224px;
+    position: absolute;
+    top: 164px;
+    width: 27px;
+  }
+  .dashboard .vector-ypxaWw {
+    background-color: transparent;
+    height: 6px;
+    left: 323px;
+    position: absolute;
+    top: 146px;
+    width: 5px;
+  }
+  .dashboard .vector-ziVTg7 {
+    background-color: transparent;
+    height: 29px;
+    left: 277px;
+    position: absolute;
+    top: 128px;
+    width: 37px;
+  }
+  .dashboard .we-are-exp-ta-2-hours {
+    align-self: flex-end;
+    background-color: transparent;
+    flex-shrink: 0;
+    height: auto;
+    letter-spacing: 0px;
+    line-height: normal;
+    margin-top: 18px;
+    min-height: 43px;
+    text-align: left;
+    width: 236px;
+  }
+  .opensans-regular-normal-rose-white-18px {
+    color: var(--rose-white-2);
+    font-family: "Open Sans-Regular", Helvetica, Arial, serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .poppins-regular-normal-black-10px {
+    color: black;
+    font-family: "Poppins-Regular", Helvetica, Arial, serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .roboto-medium-tradewind-22px {
+    color: var(--tradewind);
+    font-family: "Roboto-Medium", Helvetica, Arial, serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+  }
+  .roboto-medium-zeus-22px {
+    color: var(--zeus);
+    font-family: "Roboto-Medium", Helvetica, Arial, serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+  }
+  .roboto-regular-normal-alabaster-14px {
+    color: var(--alabaster);
+    font-family: "Roboto-Regular", Helvetica, Arial, serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .roboto-regular-normal-cultured-pearl-10px {
+    color: rgba(248, 245, 245, 1);
+    font-family: "Roboto-Regular", Helvetica, Arial, serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .roboto-regular-normal-tradewind-14px {
+    color: var(--tradewind);
+    font-family: "Roboto-Regular", Helvetica, Arial, serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
 :root {
   --soft-peach: rgba(245, 240, 240, 1);
   --tradewind: rgba(77, 182, 172, 1);
